@@ -5,7 +5,6 @@ target/
 !**/src/test/**/target/
 
 
-fouille-presentation/src/main/resources/application.properties
 
 
 ### STS ###
