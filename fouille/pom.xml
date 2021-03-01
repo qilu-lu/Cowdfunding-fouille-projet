@@ -73,10 +73,6 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>model</module>
-		<module>dao</module>
-		<module>services</module>
-		<module>presentation</module>
 		<module>fouille-model</module>
 		<module>fouille-dao</module>
 		<module>fouille-service</module>
