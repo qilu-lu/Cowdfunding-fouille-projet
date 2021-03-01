@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fr.isika.cdi7.projet3</groupId>
-	<artifactId>projet3spring</artifactId>
+	<artifactId>fouille</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projet3spring</name>
+	<name>fouille</name>
 	<description>Demo project for Spring Boot</description>
 	<!-- ajout -->
 	<packaging>pom</packaging>
